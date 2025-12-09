@@ -1,6 +1,8 @@
 # HDR-ML-Hackathon-Boulder-2025
 Resources for the HDR ML Hackathon 2026 event at CU Boulder
 
+
+[Challenge 1: Beetles as Sentinel Taxa](https://github.com/jeffgillan/HDR-SMood-Challenge-sample)
 <br>
 <br>
 <br>
@@ -11,7 +13,7 @@ Resources for the HDR ML Hackathon 2026 event at CU Boulder
 
 
 <a href="https://user.cyverse.org/">
-  <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/cyverse_float.gif" width="300">
+  <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/cyverse_float.gif" width="200">
 </a>
 
 <br>
@@ -25,6 +27,9 @@ Housed at the University of Arizona, CyVerse is a one-of-a-kind cloud computing 
 
 * [CyVerse Learning Materials](https://learning.cyverse.org)
 
+<br>
+<br>
+
 ### Data Storage
 <a href="https://cyverse.org/data-store">
   <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/data_store.png" width="150">
@@ -36,3 +41,22 @@ Cyverse Data Store is the ideal cloud storage to host your large geospatial data
 * Data I/O is accessible through website GUI and command line tools such as [gocommands](https://learning.cyverse.org/ds/gocommands/)
 * Share your data with your colleagues and world with a URL
 * Data can be public/private, shared with anyone, set permission levels
+
+<br>
+
+#### Sharing Folders
+
+<br>
+<br>
+
+### Apps
+
+Launching [ESIIL ML Challenge 2025](https://de.cyverse.org/apps/de/165baf1e-be83-11f0-bf87-008cfa5ae621)
+
+Command line navigation
+
+github authentication
+
+clone repository to App
+
+
