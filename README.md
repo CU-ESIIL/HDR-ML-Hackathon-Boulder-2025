@@ -6,6 +6,11 @@ Also see the Indico event page [here](https://indico.cern.ch/event/1615361/)
 <br>
 **Learn more about the NSF HDR ML Challenge [here](https://www.nsfhdr.org/mlchallenge-y2) and prize info [here](https://www.codabench.org/competitions/9854/#:~:text=Prize%20Pool%20for%20HDR%20ML%20Challenges%202nd%20year).**
 <br>
+## Pre-event virtual bootcamp (OPTIONAL)
+* Wednesday, December 10, 2025 1:00 PM-3:00 PM
+* Zoom link: https://cuboulder.zoom.us/j/95674412181
+* Meeting ID: 956 7441 2181
+
 ## Event Info
 **Where**: [4001 Discovery Dr (SEEC Building)](https://maps.app.goo.gl/G4pHJNsqihCRgLrG8), CU Boulder East Campus
 
@@ -13,11 +18,11 @@ Also see the Indico event page [here](https://indico.cern.ch/event/1615361/)
 * [https://cuboulder.zoom.us/j/94963837906](https://cuboulder.zoom.us/j/94963837906) 
 * Meeting ID: 949 6383 7906
 
-**Day 1 **(main day)**: **  
+**Day 1 (main day):**   
 * Friday December 12, 2025, 830am - 5pm MST
 * Room: VizStudio (SEEC S372)
 
-**Day 2 **(office hours, space to work)**:**  
+**Day 2 (office hours, space to work):**  
 * Monday December 15, 2025, 830am - 5pm MST
 * Room: Sievers Room (SEEC S228)
 
