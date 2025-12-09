@@ -27,14 +27,14 @@ This event is being organized by:
 
 ## Agenda
 ### Day 1 (Friday, December 12):  
-* 0830-0900 - get set up, coffee
-* 0900-0915 - Welcome from [NEON](https://neonscience.org) and [ESIIL](https://esiil.org/)
-* 0910-1000 - Introductions and Ice breaker
+* 0830-0900 - Arrive and get set up. Coffee will be provided!
+* 0900-0920 - Welcome from [NEON](https://neonscience.org) and [ESIIL](https://esiil.org/)
+* 0920-1000 - Introductions and Ice breaker
 * 1000-1030 - Overview of [challenge themes](https://hdr-ecosystem.github.io/y2-challenge-webpage/index.html)
     * Imageomics - Beetles as sentinel taxa
     * A3D3 - Neurobiology
     * iHarp - Predicting coastal flooding
-* 1030-1040 - break
+* 1030-1040 - Break
 * 1040-1100 - Getting started with compute resources
     * [CyVerse DE](https://de.cyverse.org) overview
 * 1100-1200 - How to create a submission
@@ -44,7 +44,7 @@ This event is being organized by:
         * Neural Forecasting (A3D3): https://www.codabench.org/competitions/9806/
     * Overview of baseline models/submissions
     * How to submit - Imageomics submission example
-* 1200-1300 - Lunch break
+* 1200-1300 - Lunch break! Lunch will be provided!
 * 1300-1400 - Recap, continue with baseline submission exercise
 * 1400-1600 - Breakouts to form teams, work on challenge
 * 1600-1630 - Report outs and wrap up. 
@@ -57,12 +57,12 @@ This event is being organized by:
 * 0930-1130 - Free time to work
 * 1130-1200 - Check in with groups. Report out and Wrap up.
 * 1200-1300 - Lunch break
-* 1300-1600 - NEON Tour? 
+* 1300-1600 - NEON Tour ([walk to NEON HQ](https://maps.app.goo.gl/2Bh1vjLpaYdrZnVUA))
 
-## GitHub repositories with starter code
+## Getting started with baseline models/code
 * [Challenge 1: Beetles as Sentinel Taxa](https://github.com/jeffgillan/HDR-SMood-Challenge-sample)
 * [Challenge 2: Predicting Coastal Flooding](https://github.com/iharp-institute/iHARP-ML-Challenge-2)
-* [Challenge 3: Neural Forecasting]()
+* [Challenge 3: Neural Forecasting](https://www.codabench.org/competitions/9806/) (NOTE: no GitHub repo, the link goes to the codabench page, see the "Starting Kit and Sample Submission" tab there for example code)
 <br>
 <br>
 <br>
@@ -70,8 +70,6 @@ This event is being organized by:
 <br>
 
 ## Computing Infrastructure
-
-
 <a href="https://user.cyverse.org/">
   <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/cyverse_float.gif" width="200">
 </a>
