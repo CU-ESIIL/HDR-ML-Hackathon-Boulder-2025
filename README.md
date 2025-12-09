@@ -95,7 +95,7 @@ Housed at the University of Arizona, CyVerse is a one-of-a-kind cloud computing 
   <img src="https://github.com/ua-datalab/Geospatial_Workshops/blob/main/images/data_store.png" width="150">
 </a>
 
-Cyverse Data Store is the ideal cloud storage to host your large geospatial datasets, share data with colleagues, and meet publication/grant archival requirements.  
+Cyverse Data Store is the ideal cloud storage to host your large datasets, share data with colleagues, and meet publication/grant archival requirements.  
 
 * Pro account has a 3TB limit
 * Data I/O is accessible through website GUI and command line tools such as [gocommands](https://learning.cyverse.org/ds/gocommands/)
@@ -105,7 +105,9 @@ Cyverse Data Store is the ideal cloud storage to host your large geospatial data
 <br>
 
 #### Sharing Folders
+<img width="464" height="405" alt="Screenshot 2025-12-03 at 8 26 32 AM" src="https://github.com/user-attachments/assets/a241c32d-4104-4907-a3c2-77a5679a4c5c" />
 
+<img width="405" height="167" alt="Screenshot 2025-12-03 at 8 28 44 AM" src="https://github.com/user-attachments/assets/58b542bd-65b3-4aad-a8c6-d47f37ba0938" />
 <br>
 <br>
 
