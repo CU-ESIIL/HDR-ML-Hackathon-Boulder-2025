@@ -119,9 +119,19 @@ Cyverse Data Store is the ideal cloud storage to host your large datasets, share
 
 Launching [ESIIL ML Challenge 2025](https://de.cyverse.org/apps/de/165baf1e-be83-11f0-bf87-008cfa5ae621)
 
-Command line navigation
+Apps are emphemeral. Once they are shutdown, they disappear forever along with any data or code you have on it. 
+
+#### Command line navigation
+
+When you first launch a Cyverse App, you are likely to be located in the directory `~/data-store`. This is a good place to have your workspace. You should clone repos here, bring data here, or put any folder or file here you are working with. However, anything you want to save SHOULD NOT BE STORED HERE! For permanent storage, put items in your personal datastore directory 
 
 
+* Compute = your scratch pad: fast but disposable
+  
+* GitHub = your lab notebook: versioned, accountable, and collaborative
+  
+* Data Store = your filing cabinet: heavy, permanent, and backed up
+  
 <img width="385" height="311" alt="Screenshot 2025-12-09 at 1 58 09 PM" src="https://github.com/user-attachments/assets/06672706-4fd9-47e3-9be5-4344ec8fbd40" />
 
 <br>
