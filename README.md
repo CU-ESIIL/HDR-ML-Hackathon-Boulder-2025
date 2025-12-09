@@ -107,12 +107,11 @@ Cyverse Data Store is the ideal cloud storage to host your large datasets, share
 * Share your data with your colleagues and world with a URL
 * Data can be public/private, shared with anyone, set permission levels
 
-<br>
-
 #### Sharing Folders
 <img width="464" height="405" alt="Screenshot 2025-12-03 at 8 26 32 AM" src="https://github.com/user-attachments/assets/a241c32d-4104-4907-a3c2-77a5679a4c5c" />
 
 <img width="405" height="167" alt="Screenshot 2025-12-03 at 8 28 44 AM" src="https://github.com/user-attachments/assets/58b542bd-65b3-4aad-a8c6-d47f37ba0938" />
+
 <br>
 <br>
 
@@ -122,8 +121,32 @@ Launching [ESIIL ML Challenge 2025](https://de.cyverse.org/apps/de/165baf1e-be83
 
 Command line navigation
 
-github authentication
+<br>
+<br>
 
-clone repository to App
+#### Authenticate with Github
+Authenticating with Github allows you to push changes back up to a repository. 
 
+In the terminal of jupyterlab, authenticate to github by typing:
+
+`gh auth login` 
+
+Follow the prompts to connect the DE app with your Github account
+
+<br>
+<br>
+
+#### Clone repository to App
+
+Best practices would be to clone git repositories to the directory `~/data-store` within the Cyverse App.
+
+Clone using the Terminal:
+
+`git clone --branch <branch-name> https://github.com/jeffgillan/HDR-SMood-Challenge-sample.git`
+
+<br>
+
+Clone using the Git Widget:
+
+<img width="566" height="276" alt="Screenshot 2025-12-03 at 8 14 10 AM" src="https://github.com/user-attachments/assets/6cbc9b16-bdd8-4f64-8087-59427c6c2fb5" />
 
