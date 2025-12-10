@@ -15,7 +15,7 @@ my_write_path=./
 # Name of the zip file (no path, just filename)
 my_zip_filename=zip_submission.zip
 
-# Paths to the three files that must go into the zip
+# Paths to the three files that must go into the zip (EDIT THERE PATHS)
 my_path_to_requirements=~/data-store/HDR-SMood-Challenge-sample/baselines/submissions/BioClip2/requirements.txt
 my_path_to_model=~/data-store/HDR-SMood-Challenge-sample/baselines/submissions/BioClip2/model.py
 my_path_to_weights=model_2025-12-05_03-04-15.pth
