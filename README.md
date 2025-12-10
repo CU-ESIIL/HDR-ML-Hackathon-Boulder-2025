@@ -154,7 +154,7 @@ If you want to move data from workspace to permanent storage, you could type: `c
 <br>
 <br>
 
-#### Authenticate with Github
+### Authenticate with Github in App
 Authenticating with Github allows you to push changes back up to a repository. 
 
 In the terminal of jupyterlab, authenticate to github by typing:
@@ -166,7 +166,7 @@ Follow the prompts to connect the DE app with your Github account
 <br>
 <br>
 
-#### Clone repository to App
+### Clone repository to App
 
 Best practices would be to clone git repositories to the directory `~/data-store` within the Cyverse App.
 
