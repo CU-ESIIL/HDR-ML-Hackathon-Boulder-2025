@@ -24,7 +24,7 @@ Also see the Indico event page [here](https://indico.cern.ch/event/1615361/)
 
 **Day 2 (office hours, space to work):**  
 * Monday December 15, 2025, 830am - 5pm MST
-* Room: Sievers Room (SEEC S228)
+* Room: VizStudio (SEEC S372) ~~Sievers Room (SEEC S228)~~
 
 This event is being organized by:  
 * The [National Ecological Observatory Network (NEON), Battelle](https://www.neonscience.org/)
